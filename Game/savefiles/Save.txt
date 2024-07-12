@@ -1,0 +1,123 @@
+Level 1:
+Current level:
+#One
+Player(positions, health):
+#960
+#540
+#10
+#0
+#0
+No Enemie(s)
+-
+No Rock obstacle(s)
+-
+No Healthpack(s)
+-
+Timer:
+#41
+
+level 2:
+Current level:
+#Two
+Player(positions, health):
+#596
+#864
+#6
+#43,80556
+#3,9048393
+Enemie(s):
+&
+1. Enemy(positions, health):
+#776
+#170
+#3
+#Sniper
+2. Enemy(positions, health):
+#1687
+#769
+#3
+#Destructor
+3. Enemy(positions, health):
+#1011,8393
+#515,2422
+#6
+#Protector
+4. Enemy(positions, health):
+#1297,1857
+#888,09045
+#3
+#Kamikaze
+5. Enemy(positions, health):
+#1044,9915
+#719,1872
+#3
+#Obstructor
+#-1000
+Rock obstacle(s):
+&
+1. Rock obstacle(position, radius, health):
+#1017
+#555
+#76,36364
+#5
+2. Rock obstacle(position, radius, health):
+#639
+#437
+#76,36364
+#6
+#-1000
+No Healthpack(s)
+-
+Timer:
+#1423
+
+Level 3:
+Current level:
+#Three
+Player(positions, health):
+#516
+#844
+#5
+#44,044113
+#10,993852
+Enemie(s):
+&
+1. Enemy(positions, health):
+#200
+#552
+#3
+#Sniper
+2. Enemy(positions, health):
+#1023,3427
+#552,5473
+#3
+#Kamikaze
+3. Enemy(positions, health):
+#496,5478
+#317,46417
+#3
+#Kamikaze
+4. Enemy(positions, health):
+#1123,0962
+#554,52844
+#3
+#Obstructor
+#-1000
+Rock obstacle(s):
+&
+1. Rock obstacle(position, radius, health):
+#1390
+#717
+#76,36364
+#6
+2. Rock obstacle(position, radius, health):
+#1538
+#655
+#76,36364
+#6
+#-1000
+No Healthpack(s)
+-
+Timer:
+#1385
+
