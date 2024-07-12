@@ -7,7 +7,7 @@ Längst mögliche Zeit überleben, Gegner Anzahl erhöht sich mit der Spielzeit,
 2. git clone
 3. Run
 
-Alternativ kann eine .exe erstellt werden und diese kann von egal wo ausgeführt werden.
+Alternativ Game files runterladen und dort den Anweisungen folgen.
 
 # Mein Aufgabengebiet
 1. Spieler
@@ -15,3 +15,6 @@ Alternativ kann eine .exe erstellt werden und diese kann von egal wo ausgeführt
 3. Animationen und Sounds
 4. Common Classes (Screen, Dir, Bullet)
 5. Softwarearchitektur
+
+# Weiter Nutzung
+Das Spiel kann frei von jedem der will geforked und weiterentwickelt werden. Zur kommerzielen Nutzung müsste man noch Credits an die assets creator geben.
