@@ -8,3 +8,10 @@ Längst mögliche Zeit überleben, Gegner Anzahl erhöht sich mit der Spielzeit,
 3. Run
 
 Alternativ kann eine .exe erstellt werden und diese kann von egal wo ausgeführt werden.
+
+# Mein Aufgabengebiet
+1. Spieler
+2. Spielerfähigkeiten (Speedboost, Fireball, Shoot)
+3. Animationen und Sounds
+4. Common Classes (Screen, Dir, Bullet)
+5. Softwarearchitektur
